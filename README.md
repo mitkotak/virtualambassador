@@ -1,10 +1,6 @@
-# Chatbot Deployment with Flask and JavaScript
+# Virtual Ambassador chatbot for the Illinois Office of Undergraduate Research 
 
-In this tutorial we deploy the chatbot I created in [this](https://github.com/python-engineer/pytorch-chatbot) tutorial with Flask and JavaScript.
-
-This gives 2 deployment options:
-- Deploy within Flask app with jinja2 template
-- Serve only the Flask prediction API. The used html and javascript files can be included in any Frontend application (with only a slight modification) and can run completely separate from the Flask App then.
+Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
 
 ## Initial Setup:
 This repo currently contains the starter files.
