@@ -1,4 +1,4 @@
-# Virtual Ambassador chatbot for the Illinois Office of Undergraduate Research 
+# Virtual Ambassador for the Illinois Office of Undergraduate Research 
 
 Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
 
