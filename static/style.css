@@ -113,8 +113,8 @@ body {
     align-items: center;
     justify-content: center;
     padding: 15px 20px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
     box-shadow: var(--primaryBoxShadow);
 }
 
@@ -123,12 +123,12 @@ body {
 }
 
 .chatbox__heading--header {
-    font-size: 1.2rem;
+    font-size: 2.2rem;
     color: white;
 }
 
 .chatbox__description--header {
-    font-size: .9rem;
+    font-size: 1.9rem;
     color: white;
 }
 
@@ -139,7 +139,7 @@ body {
 
 .messages__item {
     margin-top: 10px;
-    background:#15417c ;
+    background:#E0E0E0 ;
     padding: 8px 12px;
     max-width: 70%;
 }
