@@ -34,39 +34,38 @@
     {
       "tag": "research",
       "patterns": [
-        "What kind of research oppurtunities are out there ?",
-        "How can I get involved in research ?",
-        "How to get started with research?"
+        "Ok we have a lot of stuffquit",
+        "What kinds of items are there?",
+        "What do you sell?"
       ],
       "responses": [
-        "Good question !! Checkout this link https://blogs.illinois.edu/view/6204?ACTION=POST_LIST&displaySearch=RESEARCH%20OPPORTUNITY ",
-        "Good question !! Checkout the URAP program https://undergradresearch.illinois.edu/programs/urap.html. Applications are due October 11"
+        "We sell coffee and tea",
+        "We have coffee and tea"
       ]
     },
     {
-      "tag": "help",
+      "tag": "payments",
       "patterns": [
-        "How can you help me ?",
-        "What do you do ?",
-        "What all programs do you guys have?",
-        "What is the role of Office of Undergraduata Research?"
+        "Do you take credit cards?",
+        "Do you accept Mastercard?",
+        "Can I pay with Paypal?",
+        "Are you cash only?"
       ],
       "responses": [
-        "Thanks for asking !! We are the office of undergraduate research. Here are some things that we do :\n 1) Illinois Undergraduate Research Ambassadors (http://undergradresearch.illinois.edu/programs/ambassadors.html) : Meet my human counterparts !!         IURA ambassadors are a group of accomplished undergraduates who are here to help you out in your research journey. Feel free to schedule an appointment with them or with one of our OUR staff\n 2) Undergraduate Research Apprenticeship Program (https://undergradresearch.illinois.edu/programs/urap.html): Do you want to try out research but don't have any prior research experience ? Turns out we have a program just for you.Just to give you a quick pitch, you fill out an application, we match you with a research mentor, you work with them in the Spring, you take a 3 credit research class and then present your results at the Undergraduate Research Symposium.\n 3) Undergraduate Research Workshops(https://undergradresearch.illinois.edu/programs/workshops.html : Whether you are getting started with research or need help in writing proposals, we have a plethora of workshops to support you in every step of your research journey.",
-        
-        " Thanks for asking !! Checkout the overview page on our website https://undergradresearch.illinois.edu/programs/explore.html"
+        "We accept VISA, Mastercard and Paypal",
+        "We accept most major credit cards, and Paypal"
       ]
     },
     {
-      "tag": "professors",
+      "tag": "delivery",
       "patterns": [
-        "How do I email professors for research opportunities ?",
-        "How do I contact professors ?",
-        "How do I email professors ?"
+        "How long does delivery take?",
+        "How long does shipping take?",
+        "When do I get my delivery?"
       ],
       "responses": [
-        "Good question !! Here's my 2 cents on emailing professors :\n 1) Email grad students first : They are relatively less busy and will be happy to talk to you about their research.\n 2) Keep it short : Professor's are super super .... super busy and no one has the time to go through a really long email. Instead of talking about yourself, just try summarizing their reseaech in 3-4 lines.\n 3) Do your Homework : Professor's are very interested in knowing about why you are interested in their research over others\n 4) Keep emailing : Chances are you would need to send quite a few emails before you get a reply. So don't give up and keep on following up until you get a clear rejection.",
-        "Good question !! Checkout our GSIRW workshop https://undergradresearch.illinois.edu/programs/workshops.html"
+        "Delivery takes 2-4 days",
+        "Shipping takes 2-4 days"
       ]
     },
     {
