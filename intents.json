@@ -355,7 +355,7 @@
         "patterns": ["what are the upcoming events","upcoming events"],
         "responses": ["We have the URAP deadline on Oct 11"
         ]
-    }
+    },
     {
         "tag": "wt",
         "patterns": ["what's popping","wassup popping"],
