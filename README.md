@@ -1,14 +1,15 @@
-# Virtual Ambassador for the Illinois Office of Undergraduate Research 
+# Virtual Ambassador for the Illinois Office of Undergraduate Research <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
+
 
 ## Initial Setup:
 This repo currently contains the starter files.
 
 Clone repo and create a virtual environment
 ```
-$ git clone https://github.com/python-engineer/chatbot-deployment.git
-$ cd chatbot-deployment
+$ git clone https://github.com/mitkotak/virtualambassador.git
+$ cd virtualourambassador
 $ python3 -m venv venv
 $ . venv/bin/activate
 ```
@@ -22,7 +23,7 @@ $ (venv) python
 >>> import nltk
 >>> nltk.download('punkt')
 ```
-Modify `intents.json` with different intents and responses for your Chatbot
+Feel free to add more resposes to intents.jso
 
 Run
 ```
@@ -34,10 +35,6 @@ the following command to test it in the console.
 $ (venv) python chat.py
 ```
 
-Now for deployment follow my tutorial to implement `app.py` and `app.js`.
-
-## Note
-In the video we implement the first approach using jinja2 templates within our Flask app. Only slight modifications are needed to run the frontend separately. I put the final frontend code for a standalone frontend application in the [standalone-frontend](/standalone-frontend) folder.
 
 ## Credits:
 This repo was used for the frontend code:
