@@ -2,6 +2,7 @@
 
 Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
 
+![Alt text](images/virtualourambassador_demo.png?raw=true "Title")
 
 ## Initial Setup:
 This repo currently contains the starter files.
