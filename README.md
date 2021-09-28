@@ -7,6 +7,12 @@ Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassa
 
 ![Alt text](images/virtualourambassador_demo.png?raw=true "Title")
 
+## Theory
+
+https://machinelearningmastery.com/gentle-introduction-bag-words-model
+
+https://stackabuse.com/python-for-nlp-creating-bag-of-words-model-from-scratch/
+
 ## Initial Setup:
 This repo currently contains the starter files.
 
