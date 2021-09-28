@@ -1,4 +1,7 @@
-# Virtual Ambassador for the Illinois Office of Undergraduate Research <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+
+![Alt text](images/ourlogo.png?raw=true "Title")
+
+# AI Research Ambassador <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
 Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
 
