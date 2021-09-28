@@ -43,3 +43,6 @@ $ (venv) python chat.py
 ## Credits:
 This repo was used for the frontend code:
 https://github.com/hitchcliff/front-end-chatjs
+
+This repo was used for the base version
+https://github.com/python-engineer/chatbot-deployment
