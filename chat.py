@@ -5,7 +5,8 @@ import torch
 
 from model import NeuralNet
 from nltk_utils import bag_of_words, tokenize
-
+from documents import JavaScript_scrape
+from rank_doc import rank_docs, get_most_relevant_idx
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
 with open('intents.json', 'r') as json_data:
@@ -28,6 +29,15 @@ model.eval()
 bot_name = "Sam"
 
 def get_response(msg):
+
+    documents, links = JavaScript_scrape().scrape_websites()
+    document_ranks = rank_docs(msg, documents)
+    max_idx = get_most_relevant_idx(document_ranks)
+    if (document_ranks[max_idx]> 0.2):
+        return links[max_idx]
+
+
+
     sentence = tokenize(msg)
     X = bag_of_words(sentence, all_words)
     X = X.reshape(1, X.shape[0])
