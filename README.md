@@ -3,7 +3,7 @@
 
 # AI Research Ambassador <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 
-Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.herokuapp.com] 
+Here's the link for the Flask + Javascript AI chatbot [https://virtualourambassador.onrender.com] 
 
 ![Alt text](images/virtualourambassador_demo.png?raw=true "Title")
 
